@@ -1,13 +1,7 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
-#include <string.h>
 #include <stdlib.h>
-#define dim 8
-#define dim 8
-#define plotvaX 0
-#define plotvaY 0
-#define geraltX 7
-#define geraltY 7
+
 
 typedef struct Node
 {
